@@ -7,3 +7,6 @@ venv/
 *.egg-info/
 dist/
 build/
+reference-repos/
+server_live_backup.py
+*.bak
